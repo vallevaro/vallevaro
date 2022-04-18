@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vallevaro
-- 👀 I’m interested in Physics and AI
-- 🌱 I’m currently learning Mathematica
+- 👀 I’m interested in AI
+- 🌱 I’m working at Tecnalia Research
 - 📫 How to reach me: mvallevaro@gmail.com
 
 <!---
