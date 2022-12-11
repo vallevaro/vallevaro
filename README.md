@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vallevaro
-- 👀 I’m interested in AI
-- 🌱 I’m working at Tecnalia Research
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m working at DESY
 - 📫 How to reach me: valle.varo@tecnalia.com
 
 <!---
