@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vallevaro
-- 👀 I’m interested in Quantum Computing and Artificial Intelligence and how to make code accessible to everyone. 
+- 👀 I’m interested in Quantum Computing, Artificial Intelligence and how to make code accessible to everyone. 
 - 🌱 I’m working at DESY
 - 📫 How to reach me: valle.varo@desy.de
 
